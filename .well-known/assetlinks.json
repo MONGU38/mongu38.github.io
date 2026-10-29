@@ -1,8 +1,13 @@
-[{
-      "relation": ["delegate_permission/common.handle_all_urls"],
-      "target": {
-        "namespace": "android_app",
-        "package_name": "io.github.mongu38.kkitok",
-        "sha256_cert_fingerprints": ["4E:11:BA:49:16:7B:7B:7E:C9:BE:D7:05:9C:A6:5C:89:5D:07:0C:A4:A5:C7:F6:6E:1C:BB:D1:A3:1D:CA:85:CD"]
-      }
-    }]
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.mongu38.kkitok",
+      "sha256_cert_fingerprints": [
+        "D4:BA:3E:3B:E1:91:11:4C:96:A0:E0:28:A3:5A:B1:6F:B8:B2:F1:7D:E6:41:84:8C:0C:1A:58:A9:FF:21:2C:74",
+        "4E:11:BA:49:16:7B:7B:7E:C9:BE:D7:05:9C:A6:5C:89:5D:07:0C:A4:A5:C7:F6:6E:1C:BB:D1:A3:1D:CA:85:CD"
+      ]
+    }
+  }
+]
