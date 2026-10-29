@@ -9,5 +9,15 @@
         "4E:11:BA:49:16:7B:7B:7E:C9:BE:D7:05:9C:A6:5C:89:5D:07:0C:A4:A5:C7:F6:6E:1C:BB:D1:A3:1D:CA:85:CD"
       ]
     }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.mongu38.woodan",
+      "sha256_cert_fingerprints": [
+        "6E:FB:EF:D8:1F:77:90:87:81:AB:55:A0:80:7E:03:D4:B8:89:DE:F8:E6:04:03:D0:53:88:9C:89:DC:B5:4A:78"
+      ]
+    }
   }
 ]
